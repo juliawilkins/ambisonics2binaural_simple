@@ -18,4 +18,4 @@ python foa2binaural_script.py --input_filepath fold4_room2_mix002.wav --output_f
 Ta-da!
 
 ## Credits
-Many thanks to @auroracramer for the meat (or the beans, for us herbivores) of this code and the idea to use pedalboard with the IEM plugins!
+Many thanks to [@auroracramer](https://github.com/auroracramer) for the meat (or the beans, for us herbivores) of this code and the idea to use pedalboard with the IEM plugins!
