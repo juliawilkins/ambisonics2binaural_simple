@@ -7,6 +7,7 @@ conda activate foa2binaural
 # Install ffmpeg with onda
 conda install -c conda-forge ffmpeg
 pip install pybind11
+pip install tqdm
 
 # Download the precompiled IEM plugins
 ggID='1g-QTK7CUjc2WyEUHBXQut_Ag9827MPLw'  
